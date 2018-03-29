@@ -5,11 +5,11 @@ De lezer is volledig vrij om buiten deze programma's nog anderen te gebruiken.
 Overzicht van de programma's:
 
 ## Platform-Agnostic
-   Overleaf
+   * Overleaf
 ## Windows:
-  TeXStudio
-  TeXmaker
-  ATOM
+  * TeXStudio
+  * TeXmaker
+  * ATOM
 ## OSX
-  TeXnicle
-  TeXshop
+  * TeXnicle
+  * TeXshop
